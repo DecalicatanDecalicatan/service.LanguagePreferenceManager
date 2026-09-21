@@ -1,3 +1,7 @@
+--- Version 1.x.x
+
+Experimental, foolowing PR 28852
+
 --- Version 1.0.8
 
 - Fix addon not closing properly when "Store Preferences" is used (Kodi exit : freeze on Piers, thread error message on Omega)
